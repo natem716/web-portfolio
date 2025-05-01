@@ -60,7 +60,7 @@ export default function Hero() {
     <HeroSection>
       <Headshot src="/headshot.jpg" alt="Nathan Miller headshot" />
       <Headline>
-        Hi, I&apos;m Nathan Miller — Business & Data Analyst <span style={{fontWeight:400}}>(also dabbling in Software Engineering)</span>
+        Hi, I&#39;m Nathan Miller — Business & Data Analyst <span style={{fontWeight:400}}>(also dabbling in Software Engineering)</span>
       </Headline>
       <Subheadline>
         I turn data into insights and build tools that drive operational efficiency.
